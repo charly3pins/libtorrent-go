@@ -1,6 +1,6 @@
 PROJECT = quasarhq
 NAME = libtorrent-go
-GO_PACKAGE = github.com/scakemyer/$(NAME)
+GO_PACKAGE = github.com/charly3pins/$(NAME)
 CC = cc
 CXX = c++
 PKG_CONFIG = pkg-config
