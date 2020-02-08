@@ -1,9 +1,9 @@
-libtorrent-go [![Build Status](https://travis-ci.org/scakemyer/libtorrent-go.svg?branch=master)](https://travis-ci.org/scakemyer/libtorrent-go)
+libtorrent-go [![Build Status](https://travis-ci.org/charly3pins/libtorrent-go.svg?branch=master)](https://travis-ci.org/charly3pins/libtorrent-go)
 =============
 
 SWIG Go bindings for libtorrent-rasterbar
 
-Forked from <https://github.com/steeve/libtorrent-go>
+Forked from <https://github.com/scakemyer/libtorrent-go>
 
 
 Changes
@@ -27,8 +27,8 @@ Download and Build
 
 + Download libtorrent-go:
 
-        go get github.com/scakemyer/libtorrent-go
-        cd ~/go/src/github.com/scakemyer/libtorrent-go
+        go get github.com/charly3pins/libtorrent-go
+        cd ~/go/src/github.com/charly3pins/libtorrent-go
 
 * Pull the cross-compiler image for your platform:
 
@@ -58,3 +58,4 @@ Thanks
 ------
 - [steeve](https://github.com/steeve) for his awesome work.
 - [dimitriss](https://github.com/dimitriss) for his great updates.
+- [scakemyer](https://github.com/scakemyer) for his great updates.
